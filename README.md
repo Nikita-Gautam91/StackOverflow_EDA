@@ -3,7 +3,7 @@ Overview
 This project involves an exploratory data analysis (EDA) of Stack Overflow data. The primary goal is to uncover insights, patterns, and trends within the dataset. The analysis covers various aspects such as user behavior, question and answer dynamics, and community interactions.
 
 Data
-The Stack Overflow data used in this analysis is obtained from (https://insights.stackoverflow.com/survey). I used the 2023 surbey for analysis purpose.
+The Stack Overflow data used in this analysis is obtained from (https://insights.stackoverflow.com/survey). I used the 2023 survey for analysis purpose.
 
 Project Structure
 Data: Contains the Stack Overflow dataset used for the analysis.
